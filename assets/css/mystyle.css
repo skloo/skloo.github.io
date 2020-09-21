@@ -45,6 +45,10 @@ a:focus {
   border-top-style:none;
   border-bottom-style:none;
 }
+.teatr{
+  padding-bottom: 15px;
+  margin-bottom: 10px;
+}
 .resimg{
   max-width: 60%;
   max-height: 350px;
